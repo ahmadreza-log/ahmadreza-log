@@ -15,4 +15,4 @@
 - 🏯 Anime
 
 ## 👨‍💻 Skills ?
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,jquery,tailwind,bootstrap,scss,wordpress,next,django&theme=light&perline=7)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,jquery,tailwind,bootstrap,scss,wordpress,next,django&theme=light)
