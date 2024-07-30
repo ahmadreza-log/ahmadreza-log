@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🤏 A Little About Me
 
-<!--
-**BlueAshDev/BlueAshDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Another Programmer Who's Been Surfing The Web For Over 10 Years.<br>
+> Someone who started with learning and will end with learning.
 
-Here are some ideas to get you started:
+![Status](https://github-readme-stats.vercel.app/api?username=BlueAshDev&show_icons=true&theme=holi)
+<br>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueAshDev&theme=holi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😀 Interests ?
+- ☕ Coffee
+- 👨‍💻 Programming
+- 🎮 Video Games
+- 🎵 Music
+- 🏯 Anime
+
+## 👨‍💻 Skills ?
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,jquery,tailwind,bootstrap,scss,wordpress,next,django&theme=light&perline=7)
