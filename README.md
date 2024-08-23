@@ -3,9 +3,6 @@
 > Another Programmer Who's Been Surfing The Web For Over 10 Years.  
 > Someone who started with learning and will end with learning.
 
-![Status](https://github-readme-stats.vercel.app/api?username=BlueAshDev&show_icons=true&theme=holi)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueAshDev&theme=holi)
-
 ***
 
 ## 😀 Interests ?
