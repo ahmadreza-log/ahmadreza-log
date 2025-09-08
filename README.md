@@ -17,25 +17,37 @@
 
 ## 👨‍💻 Skills ?
 
-### Languages
-
+### Front-End
 [![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/CSS)
+[![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/CSS)
 [![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)](https://js.org)
-[![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://mysql.com)
+[![React](https://img.shields.io/badge/-React-58c4dc?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org)
+
+### Back-End
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=FFFFFF)](https://php.net)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://python.org)
+[![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)](https://js.org)
 
-### Framework, Libraries & CMS
-
-[![Next.js](https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FFFFFF)](https://laravel.com)
+### Frameworks
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)](https://djangoproject.com)
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://djangoproject.com)
+
+### Database
+[![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://mysql.com)
+[![Mongodb](https://img.shields.io/badge/-Mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)](https://mysql.com)
+
+### CMS
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)](https://wordpress.org)
 
 ### Tools
-
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com)
 [![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=FFFFFF)](https://elementor.com)
 [![Jetbrains](https://img.shields.io/badge/-Jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FFFFFF)](https://jetbrains.com)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://figma.com)
+
+## Github Stats
+<div style="display: grid;grid-template-columns: repeat(2, 1fr);">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadreza-log&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="ahmadreza-log's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadreza-log&theme=vue-dark&show_icons=true&hide_border=true&layout=donut" alt="ahmadreza-log's Top Languages"/>
+</div>
