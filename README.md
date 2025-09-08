@@ -47,7 +47,8 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://figma.com)
 
 ## Github Stats
-<div style="display: grid;grid-template-columns: repeat(2, 1fr);">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadreza-log&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="ahmadreza-log's Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadreza-log&theme=vue-dark&show_icons=true&hide_border=true&layout=donut" alt="ahmadreza-log's Top Languages"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadreza-log&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![ahmadreza-log's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmadreza&theme=vue-dark&show_icons=true&count_private=false)
+
+![ahmadreza-log's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadreza-log&theme=vue-dark&show_icons=true&layout=donut)
