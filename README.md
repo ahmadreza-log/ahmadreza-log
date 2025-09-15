@@ -51,21 +51,86 @@
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2011%20mins-blue)
 
-```rust
-From: 07 September 2025 - To: 14 September 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-TypeScript    5 hrs 39 mins   🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑   61.57 %
-PHP           2 hrs 14 mins   🌕🌕🌕🌕🌕🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   24.43 %
-Bash          10 mins         🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.90 %
-CSS           9 mins          🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.73 %
-Other         9 mins          🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.72 %
-HTML          6 mins          🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.24 %
-JavaScript    0 secs          🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   00.12 %
-TSConfig      0 secs          🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   00.03 %
-Git Config    0 secs          🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   00.02 %
-Image (svg)   0 secs          🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   00.01 %
+**🐱 My GitHub Data** 
+
+> 📦 62.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 129 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+🌆 Daytime                100 commits         ██████████████░░░░░░░░░░░   55.87 % 
+🌃 Evening                45 commits          ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Tuesday                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Sunday                   54 commits          ████████░░░░░░░░░░░░░░░░░   30.17 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+TypeScript               5 hrs 39 mins       ███████████████░░░░░░░░░░   61.58 % 
+PHP                      2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+
+🔥 Editors: 
+Cursor                   6 hrs 16 mins       █████████████████░░░░░░░░   68.29 % 
+VS Code                  2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.71 % 
+
+🐱‍💻 Projects: 
+ahmadreza-dev-v2         3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+discordjs-blueash-bot    2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+simple-imdb              2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+New folder (2)           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+
+💻 Operating System: 
+Windows                  9 hrs 11 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               8 repos             ███████████████░░░░░░░░░░   61.54 % 
+PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ahmadreza-log/ahmadreza-log/master/assets/bar_graph.png)
+
+
+ Last Updated on 15/09/2025 12:03:46 UTC
 <!--END_SECTION:waka-->
 
