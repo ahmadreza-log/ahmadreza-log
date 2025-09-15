@@ -27,15 +27,15 @@
 ### Back-End
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=FFFFFF)](https://php.net)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://python.org)
-[![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)](https://js.org)
+[![Javascript](https://img.shields.io/badge/-Node.js-68a063?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org)
 
 ### Frameworks
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)](https://djangoproject.com)
-[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://djangoproject.com)
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://expressjs.com)
 
 ### Database
 [![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://mysql.com)
-[![Mongodb](https://img.shields.io/badge/-Mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)](https://mysql.com)
+[![Mongodb](https://img.shields.io/badge/-Mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com)
 
 ### CMS
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)](https://wordpress.org)
