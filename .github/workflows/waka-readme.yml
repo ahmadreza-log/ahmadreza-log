@@ -1,10 +1,8 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,30 +10,29 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: ahmadreza-log/ahmadreza-log # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: 🌑🌘🌗🌖🌕 # optional
-          CODE_LANG: typescript # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 15 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Ahmadreza Ebrahimi # optional
-          AUTHOR_EMAIL: ahmadreza.log@gmail.com # optional
-          # you can populate email-id with secrets instead
+          
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: ahmadreza-log/ahmadreza-log
+          
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: 🌑🌘🌗🌖🌕
+          CODE_LANG: rust
+          TIME_RANGE: all_time
+          LANG_COUNT: 15
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: YAML JSON TOML
+          
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: ahmadreza-log
+          COMMITTER_EMAIL: ${{ secrets.EMAIL }}
+          AUTHOR_NAME: ahmadreza-log
+          AUTHOR_EMAIL: ${{ secrets.EMAIL }}
