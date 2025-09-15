@@ -49,8 +49,6 @@
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmadreza-log&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![ahmadreza-log's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadreza-log&theme=vue-dark&show_icons=true&layout=donut)
-
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 
