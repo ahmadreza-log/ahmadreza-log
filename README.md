@@ -1,21 +1,19 @@
 # 🤏 A Little About Me
 
-> Another Programmer Who's Been Surfing The Web For Over 10 Years.  
+> Another programmer who's been surfing the web for over 10 years.  
 > Someone who started with learning and will end with learning.
 
 ***
 
-## 😀 Interests ?
+## ✨ Fun Facts
 
-- ![Coffee](https://img.shields.io/badge/-Coffee-5B3A29?label=%E2%98%95&labelColor=FFFFFF&style=for-the-badge)
-- ![Programming](https://img.shields.io/badge/-Programming-F39F18?label=%F0%9F%92%BB&labelColor=FFFFFF&style=for-the-badge)
-- ![Video Games](https://img.shields.io/badge/-Video_Games-00BB2D?label=%F0%9F%8E%AE&labelColor=FFFFFF&style=for-the-badge)
-- ![Music](https://img.shields.io/badge/-Music-3E5F8A?label=%F0%9F%8E%B5&labelColor=FFFFFF&style=for-the-badge)
-- ![Anime](https://img.shields.io/badge/-Anime-922B3E?label=%F0%9F%8F%AF&labelColor=FFFFFF&style=for-the-badge)
+- ☕ Coffee & Chocolate fuels both my code and my creativity.
+- 📚 Always up for a good story—whether in books, games, or anime.
+- 🕹️ I love tinkering with side projects and exploring new ideas!
 
 ***
 
-## 👨‍💻 Skills ?
+## 👨‍💻 Technologies
 
 ### Front-End
 [![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=E34F26&labelColor=FFFFFF&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML5)
@@ -27,7 +25,7 @@
 ### Back-End
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=777BB4&labelColor=FFFFFF&style=for-the-badge)](https://php.net)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=3776AB&labelColor=FFFFFF&style=for-the-badge)](https://python.org)
-[![Javascript](https://img.shields.io/badge/-Node.js-68a063?logo=nodedotjs&logoColor=68a063&labelColor=FFFFFF&style=for-the-badge)](https://nodejs.org)
+[![Node.JS](https://img.shields.io/badge/-Node.js-68a063?logo=nodedotjs&logoColor=68a063&labelColor=FFFFFF&style=for-the-badge)](https://nodejs.org)
 
 ### Frameworks
 [![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=092E20&labelColor=FFFFFF&style=for-the-badge)](https://djangoproject.com)
@@ -46,7 +44,7 @@
 [![Jetbrains](https://img.shields.io/badge/-Jetbrains-000000?logo=jetbrains&logoColor=000000&labelColor=FFFFFF&style=for-the-badge)](https://jetbrains.com)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=F24E1E&labelColor=FFFFFF&style=for-the-badge)](https://figma.com)
 
-## Github Stats
+## 📈 Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmadreza-log&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Wakatime Stats
