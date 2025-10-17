@@ -53,23 +53,23 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 64.4 kB Used in GitHub's Storage 
+> 📦 64.5 kB Used in GitHub's Storage 
  > 
-> 🏆 246 Contributions in the Year 2025
+> 🏆 262 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                50 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.05 % 
-🌆 Daytime                136 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.10 % 
-🌃 Evening                58 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.94 % 
-🌙 Night                  33 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.91 % 
+🌞 Morning                51 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.41 % 
+🌆 Daytime                150 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.19 % 
+🌃 Evening                58 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.80 % 
+🌙 Night                  34 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.60 % 
 ```
 
 
