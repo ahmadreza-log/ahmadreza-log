@@ -3,6 +3,7 @@ description: Leave a comment for me
 title: "[Comment]: "
 labels: ["comment"]
 assignees: []
+
 body:
   - type: markdown
     attributes:
@@ -16,7 +17,7 @@ body:
     id: name
     attributes:
       label: Name
-      description: Your name
+      description: Your full name (will be displayed publicly)
       placeholder: Enter your name
     validations:
       required: true
@@ -25,17 +26,71 @@ body:
     id: email
     attributes:
       label: Email
-      description: Your email
+      description: Your email address (will NOT be displayed publicly)
       placeholder: Enter your email
     validations:
       required: true
 
   - type: input
-    id: project
+    id: github_username
     attributes:
-      label: Project
-      description: Your project
-      placeholder: Enter your project
+      label: GitHub Username (Optional)
+      description: Your GitHub username to display your profile picture and link
+      placeholder: Enter your GitHub username (e.g., ahmadreza-log)
+    validations:
+      required: false
+
+  - type: input
+    id: website
+    attributes:
+      label: Website/Portfolio (Optional)
+      description: Link to your website, portfolio, or project
+      placeholder: https://example.com
+    validations:
+      required: false
+
+  - type: input
+    id: company
+    attributes:
+      label: Company/Organization (Optional)
+      description: Your company or organization name
+      placeholder: Enter company name
+    validations:
+      required: false
+
+  - type: dropdown
+    id: relationship_type
+    attributes:
+      label: Relationship Type
+      description: What's your relationship with me?
+      options:
+        - Client
+        - Colleague
+        - Friend
+        - Mentor
+        - Audience
+    validations:
+      required: true
+
+  - type: dropdown
+    id: collaboration_duration
+    attributes:
+      label: Collaboration Duration (Optional)
+      description: How long have we known each other or worked together?
+      options:
+        - Less than 1 month
+        - 1 to 6 months
+        - 6 months to 1 year
+        - More than 1 year
+    validations:
+      required: false
+
+  - type: textarea
+    id: project_description
+    attributes:
+      label: Project Description (Optional)
+      description: If we worked together on a project, please describe it
+      placeholder: Describe the project or collaboration...
     validations:
       required: false
 
@@ -43,21 +98,21 @@ body:
     id: comment
     attributes:
       label: Comment
-      description: Leave a comment for me
-      placeholder: Tell us what you think
+      description: Your comment or feedback (will be displayed on my website)
+      placeholder: Tell us what you think about working with me...
     validations:
       required: true
 
   - type: dropdown
     id: stars
     attributes:
-      label: Stars
-      description: How many stars do you give to my project?
+      label: Rating
+      description: How many stars do you give to our collaboration?
       options:
-        - "⭐"
-        - "⭐⭐"
-        - "⭐⭐⭐"
-        - "⭐⭐⭐⭐"
         - "⭐⭐⭐⭐⭐"
+        - "⭐⭐⭐⭐"
+        - "⭐⭐⭐"
+        - "⭐⭐"
+        - "⭐"
     validations:
-      required: false
+      required: true
