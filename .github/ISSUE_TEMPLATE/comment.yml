@@ -1,0 +1,76 @@
+name: 💬 Comment
+description: Leave a comment for me
+title: "[Comment]: "
+labels: ["comment"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to leave a comment! Please fill out the form below to help others get to know me better.
+        I'll try to reply to you as soon as possible.
+        You can also contact me via email at [ahmadreza.log@gmail.com](mailto:ahmadreza.log@gmail.com).
+        Or you can contact me via my [website](https://ahmadreza.me).
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Your name
+      placeholder: Enter your name
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      description: Your email
+      placeholder: Enter your email
+    validations:
+      required: true
+
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: Your project
+      placeholder: Enter your project
+    validations:
+      required: false
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comment
+      description: Leave a comment for me
+      placeholder: Tell us what you think
+    validations:
+      required: true
+
+  - type: dropdown
+    id: stars
+    attributes:
+      label: Stars
+      description: How many stars do you give to my project?
+      options:
+        - "⭐"
+        - "⭐⭐"
+        - "⭐⭐⭐"
+        - "⭐⭐⭐⭐"
+        - "⭐⭐⭐⭐⭐"
+      placeholder: Select the number of stars
+      validations:
+        required: false
+        min: 0
+        max: 5
+        step: 1
+        type: number
+        pattern: ^[0-5]$
+        message: "Please enter a number between 0 and 5"
+        custom: true
+        custom_message: "Please enter a number between 0 and 5"
+        custom_pattern: ^[0-5]$
+        custom_type: number
+        custom_min: 0
+        custom_max: 5
