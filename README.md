@@ -45,7 +45,7 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=F24E1E&labelColor=FFFFFF&style=for-the-badge)](https://figma.com)
 
 ## 📈 Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadreza-log&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://stable-github-profile-trophy.vercel.app/?username=ahmadreza-log&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
