@@ -17,6 +17,9 @@
 
 [![DevJoke](https://dev-jokes-ivory.vercel.app/embed?variant=lime&theme=dark&width=846)](https://github.com/ahmadreza-log/dev-jokes)
 
+<!--START_SECTION:dev-jokes-->
+<!--END_SECTION:dev-jokes-->
+
 ***
 
 ## 👨‍💻 Technologies
