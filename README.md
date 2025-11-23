@@ -18,6 +18,15 @@
 [![DevJoke](https://dev-jokes-ivory.vercel.app/embed?variant=lime&theme=dark&width=846)](https://github.com/ahmadreza-log/dev-jokes)
 
 <!--START_SECTION:dev-jokes-->
+
+> Question: Why don't keyboards sleep?
+> Answer: Because they have two shifts.
+>
+> 
+> 🌍 🇺🇸 English
+> 
+> — [Issue #1](https://github.com/ahmadreza-log/daily-dev-jokes/issues/1) by [@ahmadreza-log](https://github.com/ahmadreza-log)
+
 <!--END_SECTION:dev-jokes-->
 
 ***
