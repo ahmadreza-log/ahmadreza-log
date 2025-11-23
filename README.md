@@ -13,6 +13,12 @@
 
 ***
 
+## 😂 Dev Joke
+
+[![DevJoke](https://dev-jokes-ivory.vercel.app/embed?variant=lime&theme=dark)](https://github.com/ahmadreza-log/dev-jokes)
+
+***
+
 ## 👨‍💻 Technologies
 
 ### Front-End
