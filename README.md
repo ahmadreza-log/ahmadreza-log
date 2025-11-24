@@ -13,20 +13,6 @@
 
 ***
 
-## 😂 Dev Joke
-
-<!--START_SECTION:dev-jokes-->
-
-> Q: Why do programmers prefer dark mode?
->
-> A: Because light attracts bugs! 🐛
-> 
-> — ahmadreza-log
-
-<!--END_SECTION:dev-jokes-->
-
-***
-
 ## 👨‍💻 Technologies
 
 ### Front-End
@@ -130,4 +116,18 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
+
+***
+
+## 😂 Dev Joke
+
+<!--START_SECTION:dev-jokes-->
+
+> Q: Why do programmers prefer dark mode?
+>
+> A: Because light attracts bugs! 🐛
+> 
+> — ahmadreza-log
+
+<!--END_SECTION:dev-jokes-->
 
