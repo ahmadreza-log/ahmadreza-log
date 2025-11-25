@@ -3,7 +3,7 @@ name: Daily Dev Joke
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -21,9 +21,9 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "🤣 Update daily joke [skip ci]"
-          COMMIT_USERNAME: "github-actions[bot]"
-          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
+          COMMIT_MESSAGE: "🤣 Update Daily Joke"
+          COMMIT_USERNAME: "ahmadreza-log"
+          COMMIT_EMAIL: "ahmadreza.log@gmail.com"
           LABEL: "joke"
           START_MARKER: "<!--START_SECTION:dev-jokes-->"
           END_MARKER: "<!--END_SECTION:dev-jokes-->"
