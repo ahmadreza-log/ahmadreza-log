@@ -22,8 +22,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "🤣 Update Daily Joke"
-          COMMIT_USERNAME: "ahmadreza-log"
-          COMMIT_EMAIL: "ahmadreza.log@gmail.com"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
           LABEL: "joke"
           START_MARKER: "<!--START_SECTION:dev-jokes-->"
           END_MARKER: "<!--END_SECTION:dev-jokes-->"
