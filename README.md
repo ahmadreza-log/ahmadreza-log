@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
+> Question: Why don't keyboards sleep?
 >
-> A: i won.
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
