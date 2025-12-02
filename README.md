@@ -123,7 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer's Curse: the moment you brag "no bugs", a bug appears
+> Question: Why don't keyboards sleep?
+>
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
