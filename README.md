@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
+> Question: How many developers does it take to screw in a lightbulb?
 >
-> A: Too much JAVA.
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
