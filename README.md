@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
+> Question: Why did the private classes break up?
 >
-> A: i won.
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
