@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Q: Who won the debate for the best name for loop variable?
 >
-> A: The part of the computer which you can kick.
+> A: i won.
 
 > — ahmadreza-log
 
