@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Question: Why don't keyboards sleep?
 >
-> Answer: None. It’s a hardware problem.
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
