@@ -119,7 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer's Curse: the moment you brag "no bugs", a bug appears
+> Q: Who won the debate for the best name for loop variable?
+>
+> A: i won.
 
 > — ahmadreza-log
 
