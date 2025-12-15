@@ -120,9 +120,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Q: How did the Coder CEO build his company headquarters?
 >
-> Answer: None. It’s a hardware problem.
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
