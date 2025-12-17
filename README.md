@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Question: Why did the private classes break up?
 >
-> A: Because light attracts bugs! 🐛
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
