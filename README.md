@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Question: How many developers does it take to screw in a lightbulb?
 >
-> A: Because light attracts bugs! 🐛
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
