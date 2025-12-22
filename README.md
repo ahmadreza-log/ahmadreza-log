@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Question: Why don't keyboards sleep?
 >
-> A: By calling the Constructor();
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
