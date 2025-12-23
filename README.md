@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
+> Q: How did the Coder CEO build his company headquarters?
 >
-> A: Too much JAVA.
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
