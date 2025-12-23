@@ -123,9 +123,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
+> Q: How did the Coder CEO build his company headquarters?
 >
-> A: i won.
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
