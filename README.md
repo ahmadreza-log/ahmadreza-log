@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
+> Q: Who won the debate for the best name for loop variable?
 >
-> A: Too much JAVA.
+> A: i won.
 
 > — ahmadreza-log
 
