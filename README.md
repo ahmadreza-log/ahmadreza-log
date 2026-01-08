@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Question: Why don't keyboards sleep?
 >
-> A: Because light attracts bugs! 🐛
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
