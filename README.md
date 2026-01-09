@@ -119,10 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Frontend VS. Backend
-
-![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
-
+> Question: Why did the private classes break up?
+>
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
