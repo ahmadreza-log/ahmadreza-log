@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Question: Why don't keyboards sleep?
 >
-> A: The part of the computer which you can kick.
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
