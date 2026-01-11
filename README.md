@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Question: What is a developer's favorite country song?
 >
-> A: The part of the computer which you can kick.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
