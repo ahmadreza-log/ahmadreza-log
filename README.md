@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Q: How did the Coder CEO build his company headquarters?
 >
-> A: The part of the computer which you can kick.
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
