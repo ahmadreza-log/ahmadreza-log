@@ -119,10 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Frontend VS. Backend
-
-![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
-
+> Q: Who won the debate for the best name for loop variable?
+>
+> A: i won.
 
 > — ahmadreza-log
 
