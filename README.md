@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
+> Q: Why do they call it hyper text?
 >
-> Answer: Hello World - by Lady Antebellum
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
