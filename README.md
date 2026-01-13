@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why don't keyboards sleep?
+> Q: Why do they call it hyper text?
 >
-> Answer: Because they have two shifts.
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
