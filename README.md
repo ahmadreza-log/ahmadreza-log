@@ -119,12 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Favourite actor of a JavaScript Developer is?
+> Code is like humor.
 >
-> Answer: JSON Statham
-
-![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
-
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
