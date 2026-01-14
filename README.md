@@ -119,7 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer's Curse: the moment you brag "no bugs", a bug appears
+> Question: Why did the private classes break up?
+>
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
