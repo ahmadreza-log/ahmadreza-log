@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
+> Code is like humor.
 >
-> A: i won.
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
