@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
+> Q: Who won the debate for the best name for loop variable?
 >
-> Answer: Hello World - by Lady Antebellum
+> A: i won.
 
 > — ahmadreza-log
 
