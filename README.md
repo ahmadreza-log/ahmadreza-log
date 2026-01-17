@@ -119,7 +119,10 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+> Frontend VS. Backend
+
+![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
+
 
 > — ahmadreza-log
 
