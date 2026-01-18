@@ -119,7 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Q: What is Hardware?
+>
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
