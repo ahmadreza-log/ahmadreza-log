@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Q: How did the Coder CEO build his company headquarters?
 >
-> A: Because light attracts bugs! 🐛
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
