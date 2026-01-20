@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Question: Why did the private classes break up?
 >
-> When you have to explain it, it’s bad.
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
