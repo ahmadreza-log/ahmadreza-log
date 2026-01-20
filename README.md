@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Code is like humor.
 >
-> Answer: None. It’s a hardware problem.
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
