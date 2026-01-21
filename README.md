@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Q: Why do programmers prefer dark mode?
 >
-> A: The part of the computer which you can kick.
+> A: Because light attracts bugs! 🐛
 
 > — ahmadreza-log
 
