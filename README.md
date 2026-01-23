@@ -119,12 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Favourite actor of a JavaScript Developer is?
+> Question: What is a developer's favorite country song?
 >
-> Answer: JSON Statham
-
-![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
-
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
