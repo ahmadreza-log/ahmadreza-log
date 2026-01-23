@@ -119,9 +119,7 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
->
-> A: Because light attracts bugs! 🐛
+> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
 
 > — ahmadreza-log
 
