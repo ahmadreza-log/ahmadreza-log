@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Q: Why do they call it hyper text?
 >
-> When you have to explain it, it’s bad.
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
