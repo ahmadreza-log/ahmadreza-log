@@ -119,7 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+> Q: What is Hardware?
+>
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
