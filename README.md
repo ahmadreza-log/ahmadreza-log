@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
+> Q: How did the Coder CEO build his company headquarters?
 >
-> Answer: Because they never saw each other.
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
