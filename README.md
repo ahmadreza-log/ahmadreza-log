@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Q: Who won the debate for the best name for loop variable?
 >
-> Answer: None. It’s a hardware problem.
+> A: i won.
 
 > — ahmadreza-log
 
