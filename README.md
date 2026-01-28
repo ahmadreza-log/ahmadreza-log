@@ -119,10 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Frontend VS. Backend
-
-![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
-
+> Question: How many developers does it take to screw in a lightbulb?
+>
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
