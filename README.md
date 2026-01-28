@@ -119,10 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Frontend VS. Backend
-
-![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
-
+> Q: How did the Coder CEO build his company headquarters?
+>
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
