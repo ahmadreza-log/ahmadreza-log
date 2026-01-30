@@ -119,7 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+> Question: How many developers does it take to screw in a lightbulb?
+>
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
