@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
+> Question: Why did the private classes break up?
 >
-> Answer: Hello World - by Lady Antebellum
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
