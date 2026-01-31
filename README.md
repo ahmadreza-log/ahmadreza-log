@@ -119,9 +119,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Question: What is a developer's favorite country song?
 >
-> When you have to explain it, it’s bad.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
