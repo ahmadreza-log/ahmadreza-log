@@ -119,7 +119,9 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer's Curse: the moment you brag "no bugs", a bug appears
+> Question: What's the object-oriented way to become wealthy?
+>
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
