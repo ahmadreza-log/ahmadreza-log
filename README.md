@@ -119,9 +119,9 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Q: Who won the debate for the best name for loop variable?
 >
-> Answer: Inheritance.
+> A: i won.
 
 > — ahmadreza-log
 
