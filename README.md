@@ -119,9 +119,7 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
->
-> A: i won.
+> Software and cathedrals are much the same — first we build them, then we pray.
 
 > — ahmadreza-log
 
