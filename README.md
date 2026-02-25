@@ -119,7 +119,12 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
+> Question: Favourite actor of a JavaScript Developer is?
+>
+> Answer: JSON Statham
+
+![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
+
 
 > — ahmadreza-log
 
