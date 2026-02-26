@@ -119,11 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Favourite actor of a JavaScript Developer is?
->
-> Answer: JSON Statham
+> Frontend VS. Backend
 
-![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
+![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
 
 
 > — ahmadreza-log
