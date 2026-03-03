@@ -119,9 +119,7 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
->
-> Answer: Inheritance.
+> Programmer's Curse: the moment you brag "no bugs", a bug appears
 
 > — ahmadreza-log
 
