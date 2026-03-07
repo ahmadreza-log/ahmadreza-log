@@ -119,12 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Favourite actor of a JavaScript Developer is?
+> Q: What is Hardware?
 >
-> Answer: JSON Statham
-
-![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
-
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
