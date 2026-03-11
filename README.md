@@ -119,7 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
+> Question: What is a developer's favorite country song?
+>
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
