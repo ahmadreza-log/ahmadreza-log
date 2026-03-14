@@ -119,7 +119,7 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Software and cathedrals are much the same — first we build them, then we pray.
 
 > — ahmadreza-log
 
