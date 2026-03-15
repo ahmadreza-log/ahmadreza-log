@@ -119,7 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Code is like humor.
+>
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
