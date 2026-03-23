@@ -119,7 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Question: How many developers does it take to screw in a lightbulb?
+>
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
