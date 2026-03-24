@@ -119,9 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Question: What is a developer's favorite country song?
 >
-> Answer: None. It’s a hardware problem.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
