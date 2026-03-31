@@ -119,9 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Question: How many developers does it take to screw in a lightbulb?
 >
-> Answer: Inheritance.
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
