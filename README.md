@@ -119,7 +119,7 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer's Curse: the moment you brag "no bugs", a bug appears
+> I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 > — ahmadreza-log
 
