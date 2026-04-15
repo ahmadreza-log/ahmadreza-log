@@ -119,9 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
+> Question: Why don't keyboards sleep?
 >
-> Answer: Because they never saw each other.
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
