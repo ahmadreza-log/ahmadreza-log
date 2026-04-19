@@ -119,9 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
+> Question: Why don't keyboards sleep?
 >
-> Answer: Hello World - by Lady Antebellum
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
