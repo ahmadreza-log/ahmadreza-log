@@ -119,9 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Question: What's the object-oriented way to become wealthy?
 >
-> A: By calling the Constructor();
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
