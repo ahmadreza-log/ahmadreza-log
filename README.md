@@ -119,9 +119,9 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Code is like humor.
 >
-> Answer: Inheritance.
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
