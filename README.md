@@ -119,9 +119,7 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
->
-> When you have to explain it, it’s bad.
+> I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 > — ahmadreza-log
 
