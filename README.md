@@ -49,17 +49,15 @@
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%206%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590.52%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-591.17%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 190.8 kB Used in GitHub's Storage 
+> 📦 191.6 kB Used in GitHub's Storage 
  > 
-> 🏆 846 Contributions in the Year 2026
+> 🏆 850 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,44 +65,13 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                320 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.08 % 
-🌆 Daytime                575 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.49 % 
-🌃 Evening                323 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.25 % 
-🌙 Night                  552 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.19 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   263 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.86 % 
-Tuesday                  242 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.67 % 
-Wednesday                233 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.16 % 
-Thursday                 232 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.11 % 
-Friday                   195 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.02 % 
-Saturday                 255 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.41 % 
-Sunday                   350 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               17 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.50 % 
-PHP                      12 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.00 % 
-JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
+PHP                      13 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.50 % 
 Python                   4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
+JavaScript               3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.50 % 
 Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.00 % 
 ```
 
