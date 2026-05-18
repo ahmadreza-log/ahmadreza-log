@@ -119,9 +119,7 @@ Go                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why don't keyboards sleep?
->
-> Answer: Because they have two shifts.
+> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
 
 > — ahmadreza-log
 
