@@ -119,7 +119,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Question: How many developers does it take to screw in a lightbulb?
+>
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
