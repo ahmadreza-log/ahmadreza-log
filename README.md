@@ -119,9 +119,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
+> Question: What is a developer's favorite country song?
 >
-> Answer: Because they never saw each other.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
