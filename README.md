@@ -119,9 +119,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
->
-> A: Too much JAVA.
+> I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 > — ahmadreza-log
 
