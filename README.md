@@ -88,7 +88,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Question: Why did the private classes break up?
+>
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
