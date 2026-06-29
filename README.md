@@ -119,9 +119,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
+> Q: Why do they call it hyper text?
 >
-> A: i won.
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
