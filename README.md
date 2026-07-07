@@ -119,7 +119,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
 
 > — ahmadreza-log
 
