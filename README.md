@@ -119,9 +119,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
+> Question: How many developers does it take to screw in a lightbulb?
 >
-> A: i won.
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
