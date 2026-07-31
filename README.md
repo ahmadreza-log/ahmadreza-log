@@ -127,7 +127,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Q: Who won the debate for the best name for loop variable?
+>
+> A: i won.
 
 > — ahmadreza-log
 
