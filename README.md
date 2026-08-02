@@ -127,9 +127,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
+> Question: What is a developer's favorite country song?
 >
-> A: i won.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
