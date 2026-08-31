@@ -148,9 +148,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
->
-> When you have to explain it, it’s bad.
+> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
 
 > — ahmadreza-log
 
