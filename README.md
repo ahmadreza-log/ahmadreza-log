@@ -148,7 +148,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Question: Why don't keyboards sleep?
+>
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
