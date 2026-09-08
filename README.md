@@ -157,3 +157,6 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:dev-jokes-->
 
+<span align="center">
+ <img src="https://ssr-contributions-svg.vercel.app/_/ahmadreza-log?chart=3dbar&gap=0.6&scale=2&flatten=1&light=2&gradient=true&legend=true&legendPosition=bottom&legendDirection=row&strokeWidth=1&strokeColor=222222&animation=wave&format=png&quality=1&weeks=50&theme=random&widget_size=large&dark=true">
+</span>
