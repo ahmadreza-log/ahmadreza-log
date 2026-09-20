@@ -148,9 +148,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
+> Question: What is a developer's favorite country song?
 >
-> A: Too much JAVA.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
