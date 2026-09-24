@@ -148,9 +148,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
->
-> A: By calling the Constructor();
+> Debugging: Removing the needles from the haystack.
 
 > — ahmadreza-log
 
