@@ -148,7 +148,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Q: Who won the debate for the best name for loop variable?
+>
+> A: i won.
 
 > — ahmadreza-log
 
