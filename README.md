@@ -148,9 +148,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
->
-> Answer: Inheritance.
+> Debugging: Removing the needles from the haystack.
 
 > — ahmadreza-log
 
