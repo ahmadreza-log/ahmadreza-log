@@ -145,7 +145,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Software and cathedrals are much the same — first we build them, then we pray.
 
 > — ahmadreza-log
 
