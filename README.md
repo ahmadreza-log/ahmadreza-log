@@ -148,7 +148,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Question: What is a developer's favorite country song?
+>
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
