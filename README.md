@@ -148,7 +148,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+> Question: Why did the private classes break up?
+>
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
