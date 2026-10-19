@@ -148,9 +148,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
->
-> A: Because light attracts bugs! 🐛
+> Software and cathedrals are much the same — first we build them, then we pray.
 
 > — ahmadreza-log
 
