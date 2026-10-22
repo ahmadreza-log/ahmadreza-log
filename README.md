@@ -149,7 +149,9 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Q: How did the Coder CEO build his company headquarters?
+>
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
