@@ -127,9 +127,9 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Code is like humor.
 >
-> A: The part of the computer which you can kick.
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
