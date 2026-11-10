@@ -127,9 +127,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
->
-> Answer: Because they never saw each other.
+> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
 
 > — ahmadreza-log
 
