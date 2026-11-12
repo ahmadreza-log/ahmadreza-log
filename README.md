@@ -127,9 +127,7 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
->
-> Answer: Because they never saw each other.
+> Debugging: Removing the needles from the haystack.
 
 > — ahmadreza-log
 
