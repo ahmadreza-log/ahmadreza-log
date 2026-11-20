@@ -127,7 +127,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Q: Why do programmers prefer dark mode?
+>
+> A: Because light attracts bugs! 🐛
 
 > — ahmadreza-log
 
