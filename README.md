@@ -127,7 +127,9 @@ GDScript                 1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+> Code is like humor.
+>
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
